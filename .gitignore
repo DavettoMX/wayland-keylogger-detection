@@ -1,0 +1,26 @@
+# Captured keystroke logs — NEVER commit real keystroke data
+lab_keystrokes.log
+keystrokes.log
+*.log
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local model files (large; keep out of the repo)
+*.gguf
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Claude Code local project data
+.claude/
