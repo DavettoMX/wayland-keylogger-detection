@@ -5,9 +5,6 @@ agent that catches a running keylogger and explains its verdict in plain
 language. A deliberately overt, consented keylogger is included only as the
 detection target.
 
-Extends the Coursera lab *"Preventing Malicious Code Execution with Generative
-AI"* with a real, working runtime-detection scenario on a modern Wayland desktop.
-
 > ⚠️ **Scope & ethics.** For education and defensive research only, on a machine
 > **you own**, logging **only your own** keystrokes, with an explicit consent
 > prompt. **By design there is no stealth, no evasion, no network exfiltration,
